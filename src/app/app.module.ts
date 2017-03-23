@@ -8,11 +8,11 @@ import { LoginPage } from '../pages/login/login';
  
   // Initialize Firebase
   const config = {
-    apiKey: "AIzaSyDURZs-S3auet2cvxfxL2qDbKwfAa6udJI",
-    authDomain: "umuv-c30d9.firebaseapp.com",
-    databaseURL: "https://umuv-c30d9.firebaseio.com",
-    storageBucket: "umuv-c30d9.appspot.com",
-    messagingSenderId: "22478716729"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    storageBucket: "",
+    messagingSenderId: ""
   };
  
  
